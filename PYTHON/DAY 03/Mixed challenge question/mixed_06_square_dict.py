@@ -1,0 +1,4 @@
+# Create dictionary of numbers and their squares
+squares = {i: i**2 for i in range(1, 11)}
+
+print(squares)
