@@ -2,6 +2,12 @@
 
 «🌱 My learning and open-source contribution journey toward Outreachy 2026.»
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python Learning">
+  <img src="https://img.shields.io/badge/Python%20Days-4-success" alt="Python Days Completed">
+  <img src="https://img.shields.io/badge/Outreachy-2026-8A2BE2" alt="Outreachy 2026">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange" alt="Status">
+</p>---
 
 🎯 Objective
 
@@ -258,6 +264,11 @@ outreachy-journey-2026/
     │
     └── 📁 Day 04/
         └── 🔁 Loop practice programs
+<<<<<<< HEAD
+=======
+
+        
+>>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
 🎯 Long-Term Goals
 🐍 Build strong Python fundamentals
 🧠 Improve problem-solving skills
@@ -268,10 +279,24 @@ outreachy-journey-2026/
 🌐 Learn Django and web development
 🚀 Prepare for Outreachy 2026
 🌱 Become a confident beginner developer
+<<<<<<< HEAD
 👤 Author
 Ranjay Kumar
+=======
+
+
+👤 Author
+
+Ranjay Kumar
+
+
+>>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
 🐍 Learning Python
 🌍 Preparing for Outreachy 2026
 💻 Building my open-source journey one step at a time.
 ⭐ This repository represents my learning progress, practice, and continuous improvement.
+<<<<<<< HEAD
 🚀 Learn → Practice → Build → Contribute → Grow
+=======
+🚀 Learn → Practice → Build → Contribute → Grow
+>>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
