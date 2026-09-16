@@ -264,6 +264,11 @@ outreachy-journey-2026/
     │
     └── 📁 Day 04/
         └── 🔁 Loop practice programs
+<<<<<<< HEAD
+=======
+
+        
+>>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
 🎯 Long-Term Goals
 🐍 Build strong Python fundamentals
 🧠 Improve problem-solving skills
@@ -274,10 +279,24 @@ outreachy-journey-2026/
 🌐 Learn Django and web development
 🚀 Prepare for Outreachy 2026
 🌱 Become a confident beginner developer
+<<<<<<< HEAD
 👤 Author
 Ranjay Kumar
+=======
+
+
+👤 Author
+
+Ranjay Kumar
+
+
+>>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
 🐍 Learning Python
 🌍 Preparing for Outreachy 2026
 💻 Building my open-source journey one step at a time.
 ⭐ This repository represents my learning progress, practice, and continuous improvement.
+<<<<<<< HEAD
 🚀 Learn → Practice → Build → Contribute → Grow
+=======
+🚀 Learn → Practice → Build → Contribute → Grow
+>>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
