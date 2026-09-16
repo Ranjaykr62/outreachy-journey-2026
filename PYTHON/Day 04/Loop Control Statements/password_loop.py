@@ -1,8 +1,8 @@
-correct_password = "python123"
+password = "python123"
 
 while True:
-    password = input("Enter password: ")
-    if password == correct_password:
+    user_input = input("Enter password: ")
+    if user_input == password:
         print("Access granted!")
         break
     else:

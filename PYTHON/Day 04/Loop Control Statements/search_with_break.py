@@ -1,8 +1,7 @@
-numbers = [10, 20, 30, 40, 50]
-target = 30
+numbers = [2, 4, 6, 8, 10, 12, 14]
+search = int(input("Enter number to search: "))
 
 for num in numbers:
-    if num == target:
+    if num == search:
         print("Found:", num)
         break
-
