@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python Learning">
-  <img src="https://img.shields.io/badge/Python%20Days-4-success" alt="Python Days Completed">
+  <img src="https://img.shields.io/badge/Python%20Days-6-success" alt="Python Days Completed">
   <img src="https://img.shields.io/badge/Outreachy-2026-8A2BE2" alt="Outreachy 2026">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange" alt="Status">
 </p>---
@@ -34,13 +34,14 @@ My focus is on building practical skills in:
 🔀 Conditions| ✅ Completed
 🗂️ Data Structures| ✅ Completed
 🔁 Loops| ✅ Completed
-⚙️ Functions| ⏳ Upcoming
+⚙️ Functions| ✅ Completed
+🧱 OOP Basics| 🟢 Completed
 🔧 Git & GitHub| 🔄 Learning
 🌍 Open Source| 🔄 Preparing
 
 📈 Learning Milestone
 
-🐍 Python Learning Days: "4 / 25"
+🐍 Python Learning Days: 6 / 25
 
 ---
 
@@ -172,8 +173,11 @@ My focus is on building practical skills in:
 ---
 
 ✅ Day 05 — Python Functions
+
 📌 Status: 🟢 Completed
+
 📖 Topics Covered
+
 ⚙️ What functions are
 🏗️ Creating and calling functions
 📥 Parameters and arguments
@@ -199,9 +203,16 @@ My focus is on building practical skills in:
 🔢 Number Analysis
 📋 Menu-Driven Function Program
 ⭐ Pattern Generator Using Functions
+
+----
+
+
 ✅ Day 06 — Object-Oriented Programming Basics
+
 📌 Status: 🟢 Completed
+
 📖 Topics Covered
+
 🧱 Classes
 🎯 Objects
 📦 Attributes
@@ -232,13 +243,91 @@ My focus is on building practical skills in:
 
 ------
 
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- ⚙️ What functions are
+- 🏗️ Creating and calling functions
+- 📥 Parameters and arguments
+- ↩️ "return" statement
+- 🔄 Reusable functions
+- 🧩 Functions with conditions and loops
+- 🧠 Breaking programs into smaller parts
+
+💻 Practice
+
+- 👋 Basic Function Practice
+- 👤 Function with Parameters
+- ➕ Function for Addition
+- 🔢 Even/Odd Function
+- 🔢 Largest Number Function
+- ↩️ Functions Using "return"
+- 🧮 Factorial Function
+- 🔄 Reverse Number Function
+- 🔍 Prime Number Function
+- 🔢 Palindrome Function
+- 🧮 Calculator Using Functions
+
+🔥 Challenges
+
+- 🧮 Function-Based Calculator
+- 🎓 Student Marks System
+- 🔢 Number Analysis
+- 📋 Menu-Driven Function Program
+- ⭐ Pattern Generator Using Functions
+
+---
+
+✅ Day 06 — Object-Oriented Programming Basics
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🧱 Classes
+- 🎯 Objects
+- 📦 Attributes
+- 🧩 Methods
+- 👤 "self"
+- 🏗️ "__init__()" constructor
+- 🔄 Objects and their data
+- 🧠 Basic OOP problem solving
+
+💻 Practice
+
+- 🎓 Student Class
+- 🚗 Car Class
+- 📚 Book Class
+- 📱 Mobile Class
+- 👨‍💼 Employee Class
+- 📐 Rectangle Class
+- ⭕ Circle Class
+- 🛍️ Product Class
+- 🧮 Calculator Class
+- 🎓 Student Grade System
+- 🏦 Bank Account
+- 🚗 Car Speed System
+- 🔢 Number Analyzer
+- 📊 Student Result System
+- 🛒 Shopping Cart
+
+🔥 Challenges
+
+- 📚 Library Management System
+- 🏦 Bank System
+- 👨‍💼 Employee Management System
+- 🎓 Student Management System
+
+
+
 🗺️ 25-Day Learning Roadmap
 
 Day| 📚 Topic| 📊 Status
 01| 🐍 Python Fundamentals| ✅ Completed
 02| 🔀 Conditions & Decision Making| ✅ Completed
-03
-🗂️ Lists, Tuples, Sets & Dictionaries
+03🗂️ Lists, Tuples, Sets & Dictionaries
 ✅ Completed
 04
 🔁 Python Loops
@@ -307,7 +396,38 @@ Day| 📚 Topic| 📊 Status
 🚀 Final Project & Outreachy Preparation
 ⏳ Upcoming
 📌 Note: This roadmap is flexible. Topics may be adjusted based on learning progress and Outreachy project requirements.
+=======
+03| 🗂️ Lists, Tuples, Sets & Dictionaries| ✅ Completed
+04| 🔁 Python Loops| ✅ Completed
+05| ⚙️ Functions| ✅ Completed
+06| 🧱 Object-Oriented Programming| ✅ Completed
+07| 🛡️ Error Handling| ⏳ Upcoming
+08| 🐞 Debugging & Problem Solving| ⏳ Upcoming
+09| 📁 File Handling| ⏳ Upcoming
+10| 📦 Modules & Packages| ⏳ Upcoming
+11| 🧪 Testing Basics| ⏳ Upcoming
+12| ✨ Clean Code| ⏳ Upcoming
+13| 🔧 Git Fundamentals| ⏳ Upcoming
+14| 🌐 GitHub Workflow| ⏳ Upcoming
+15| 🐧 Linux Command Line| ⏳ Upcoming
+16| 📖 Reading Real-World Code| ⏳ Upcoming
+17| 🐛 Understanding Issues| ⏳ Upcoming
+18| 🔍 Exploring Open-Source Repositories| ⏳ Upcoming
+19| 📝 Documentation & README| ⏳ Upcoming
+20| 🤝 Pull Requests| ⏳ Upcoming
+21| 🌍 First Open-Source Contribution| ⏳ Upcoming
+22| 🌐 Django Fundamentals| ⏳ Upcoming
+23| 🧪 Django Practice Project| ⏳ Upcoming
+24| 🧠 Python Revision & Challenges| ⏳ Upcoming
+25| 🚀 Final Project & Outreachy Preparation| ⏳ Upcoming
+
+«📌 Note: This roadmap is flexible. Topics may be adjusted based on learning progress and Outreachy project requirements.»
+
+---
+
+>>>>>>> 7b63f0c (Update README for Day 5 and Day 6 progress)
 📂 Repository Structure
+
 outreachy-journey-2026/
 │
 ├── 📄 README.md
@@ -323,41 +443,39 @@ outreachy-journey-2026/
     ├── 📁 Day 03/
     │   └── 🗂️ Data structures practice programs
     │
-    └── 📁 Day 04/
-        └── 🔁 Loop practice programs
-<<<<<<< HEAD
-=======
+    ├── 📁 Day 04/
+    │   └── 🔁 Loop practice programs
+    │
+    ├── 📁 Day 05/
+    │   └── ⚙️ Functions practice programs
+    │
+    └── 📁 Day 06/
+        └── 🧱 OOP practice programs
 
-        
->>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
+---
+
 🎯 Long-Term Goals
-🐍 Build strong Python fundamentals
-🧠 Improve problem-solving skills
-🔧 Learn Git and GitHub workflows
-🐧 Understand Linux command line
-📖 Read and understand real-world code
-🤝 Make meaningful open-source contributions
-🌐 Learn Django and web development
-🚀 Prepare for Outreachy 2026
-🌱 Become a confident beginner developer
-<<<<<<< HEAD
-👤 Author
-Ranjay Kumar
-=======
 
+- 🐍 Build strong Python fundamentals
+- 🧠 Improve problem-solving skills
+- 🔧 Learn Git and GitHub workflows
+- 🐧 Understand Linux command line
+- 📖 Read and understand real-world code
+- 🤝 Make meaningful open-source contributions
+- 🌐 Learn Django and web development
+- 🚀 Prepare for Outreachy 2026
+- 🌱 Become a confident beginner developer
+
+---
 
 👤 Author
 
 Ranjay Kumar
 
-
->>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
 🐍 Learning Python
 🌍 Preparing for Outreachy 2026
 💻 Building my open-source journey one step at a time.
+
 ⭐ This repository represents my learning progress, practice, and continuous improvement.
-<<<<<<< HEAD
+
 🚀 Learn → Practice → Build → Contribute → Grow
-=======
-🚀 Learn → Practice → Build → Contribute → Grow
->>>>>>> 078a944f1267a6463d2496e086b5d6c0563d79fe
