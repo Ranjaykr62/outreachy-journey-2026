@@ -171,6 +171,67 @@ My focus is on building practical skills in:
 
 ---
 
+✅ Day 05 — Python Functions
+📌 Status: 🟢 Completed
+📖 Topics Covered
+⚙️ What functions are
+🏗️ Creating and calling functions
+📥 Parameters and arguments
+↩️ return statement
+🔄 Reusable functions
+🧩 Functions with conditions and loops
+🧠 Breaking programs into smaller parts
+💻 Practice
+👋 Basic Function Practice
+👤 Function with Parameters
+➕ Function for Addition
+🔢 Even/Odd Function
+🔢 Largest Number Function
+↩️ Functions Using return
+🧮 Factorial Function
+🔄 Reverse Number Function
+🔍 Prime Number Function
+🔢 Palindrome Function
+🧮 Calculator Using Functions
+🔥 Challenges
+🧮 Function-Based Calculator
+🎓 Student Marks System
+🔢 Number Analysis
+📋 Menu-Driven Function Program
+⭐ Pattern Generator Using Functions
+✅ Day 06 — Object-Oriented Programming Basics
+📌 Status: 🟢 Completed
+📖 Topics Covered
+🧱 Classes
+🎯 Objects
+📦 Attributes
+🧩 Methods
+👤 self
+🏗️ __init__() constructor
+🔄 Objects and their data
+🧠 Basic OOP problem solving
+💻 Practice
+🎓 Student Class
+🚗 Car Class
+📚 Book Class
+📱 Mobile Class
+👨‍💼 Employee Class
+📐 Rectangle Class
+⭕ Circle Class
+🛍️ Product Class
+🧮 Calculator Class
+🎓 Student Grade System
+🏦 Bank Account
+🚗 Car Speed System
+🔢 Number Analyzer
+📊 Student Result System
+🛒 Shopping Cart
+🔥 Challenges
+📚 Library Management System
+🏦 Bank System
+
+------
+
 🗺️ 25-Day Learning Roadmap
 
 Day| 📚 Topic| 📊 Status
@@ -184,10 +245,10 @@ Day| 📚 Topic| 📊 Status
 ✅ Completed
 05
 ⚙️ Functions
-⏳ Upcoming
+✅ Completed 
 06
 🧱 Object-Oriented Programming
-⏳ Upcoming
+✅ Completed 
 07
 🛡️ Error Handling
 ⏳ Upcoming
