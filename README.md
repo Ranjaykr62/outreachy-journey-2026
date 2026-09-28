@@ -340,16 +340,16 @@ Day| 📚 Topic| 📊 Status
 ✅ Completed 
 07
 🛡️ Error Handling
-⏳ Upcoming
+✅ Completed
 08
 🐞 Debugging & Problem Solving
-⏳ Upcoming
+✅ Completed
 09
 📁 File Handling
-⏳ Upcoming
+✅ Completed
 10
 📦 Modules & Packages
-⏳ Upcoming
+✅ Completed
 11
 🧪 Testing Basics
 ⏳ Upcoming
@@ -358,22 +358,22 @@ Day| 📚 Topic| 📊 Status
 ⏳ Upcoming
 13
 🔧 Git Fundamentals
-⏳ Upcoming
+✅ Completed
 14
 🌐 GitHub Workflow
-⏳ Upcoming
+✅ Completed
 15
 🐧 Linux Command Line
 ⏳ Upcoming
 16
 📖 Reading Real-World Code
-⏳ Upcoming
+✅ Completed
 17
 🐛 Understanding Issues
 ⏳ Upcoming
 18
 🔍 Exploring Open-Source Repositories
-⏳ Upcoming
+ Completed
 19
 📝 Documentation & README
 ⏳ Upcoming
