@@ -1,10 +1,10 @@
 🚀 Outreachy Journey 2026
 
-«🌱 My learning and open-source contribution journey toward Outreachy 2026.»
+🌱 My learning and open-source contribution journey toward Outreachy 2026.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" alt="Python Learning">
-  <img src="https://img.shields.io/badge/Python%20Days-6-success" alt="Python Days Completed">
+  <img src="https://img.shields.io/badge/Learning%20Days-19%2F25-success" alt="Learning Days">
   <img src="https://img.shields.io/badge/Outreachy-2026-8A2BE2" alt="Outreachy 2026">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange" alt="Status">
 </p>---
@@ -19,11 +19,12 @@ My focus is on building practical skills in:
 - 🧠 Problem Solving
 - 🔧 Git & GitHub
 - 🐧 Linux
-- 🌐 Django & Web Development
 - 🌍 Open Source Contribution
 - 💬 Technical Communication
+- 🧪 Testing
+- 📖 Reading Real-World Code
 
-«💡 The goal is not just to learn technologies, but to develop the ability to understand real-world codebases, solve issues, write clean code, and contribute effectively to open-source projects.»
+«💡 The goal is not just to learn technologies, but to develop the ability to understand real-world codebases, solve issues, write clean code, test programs, and contribute effectively to open-source projects.»
 
 ---
 
@@ -35,19 +36,32 @@ My focus is on building practical skills in:
 🗂️ Data Structures| ✅ Completed
 🔁 Loops| ✅ Completed
 ⚙️ Functions| ✅ Completed
-🧱 OOP Basics| 🟢 Completed
-🔧 Git & GitHub| 🔄 Learning
-🌍 Open Source| 🔄 Preparing
+🧱 OOP Basics| ✅ Completed
+🛡️ Error Handling| ✅ Completed
+🐞 Debugging & Problem Solving| ✅ Completed
+📁 File Handling| ✅ Completed
+📦 Modules & Packages| ✅ Completed
+🧪 Testing Basics| ✅ Completed
+📖 Real-World Code Reading| ✅ Completed
+📝 Documentation & README| ✅ Completed
+🔧 Git Fundamentals| ✅ Completed
+🌐 GitHub Workflow| ✅ Completed
+🌍 Open Source Preparation| 🔄 In Progress
+🐧 Linux| ⏳ Upcoming
+
+---
 
 📈 Learning Milestone
 
-🐍 Python Learning Days: 6 / 25
+🏆 19 / 25 Learning Days Completed
+
+███████████████████░░░░░░  19/25
 
 ---
 
 📚 Learning Progress
 
-✅ Day 01 — Python Fundamentals
+✅ 01 — Python Fundamentals
 
 📌 Status: 🟢 Completed
 
@@ -75,7 +89,7 @@ My focus is on building practical skills in:
 
 ---
 
-✅ Day 02 — Python Conditions
+✅ 02 — Python Conditions
 
 📌 Status: 🟢 Completed
 
@@ -106,7 +120,7 @@ My focus is on building practical skills in:
 
 ---
 
-✅ Day 03 — Python Data Structures
+✅ 03 — Python Data Structures
 
 📌 Status: 🟢 Completed
 
@@ -140,7 +154,7 @@ My focus is on building practical skills in:
 
 ---
 
-✅ Day 04 — Python Loops
+✅ 04 — Python Loops
 
 📌 Status: 🟢 Completed
 
@@ -148,9 +162,9 @@ My focus is on building practical skills in:
 
 - 🔁 "for" loops
 - 🔄 "while" loops
-- 🔢 "range()" function
-- ⛔ "break" statement
-- ⏭️ "continue" statement
+- 🔢 "range()"
+- ⛔ "break"
+- ⏭️ "continue"
 - 🪆 Nested loops
 - 🧩 Loop-based problem solving
 
@@ -163,8 +177,8 @@ My focus is on building practical skills in:
 - ✖️ Multiplication Table
 - 🔄 Reverse a Number
 - 🔢 Count Digits
-- 🧮 Factorial of a Number
-- 🔍 Check Prime Number
+- 🧮 Factorial
+- 🔍 Prime Number
 - 🐇 Fibonacci Series
 - 🔤 Count Vowels
 - ⭐ Star Patterns
@@ -172,86 +186,16 @@ My focus is on building practical skills in:
 
 ---
 
-✅ Day 05 — Python Functions
+✅ 05 — Python Functions
 
 📌 Status: 🟢 Completed
 
 📖 Topics Covered
 
-⚙️ What functions are
-🏗️ Creating and calling functions
-📥 Parameters and arguments
-↩️ return statement
-🔄 Reusable functions
-🧩 Functions with conditions and loops
-🧠 Breaking programs into smaller parts
-💻 Practice
-👋 Basic Function Practice
-👤 Function with Parameters
-➕ Function for Addition
-🔢 Even/Odd Function
-🔢 Largest Number Function
-↩️ Functions Using return
-🧮 Factorial Function
-🔄 Reverse Number Function
-🔍 Prime Number Function
-🔢 Palindrome Function
-🧮 Calculator Using Functions
-🔥 Challenges
-🧮 Function-Based Calculator
-🎓 Student Marks System
-🔢 Number Analysis
-📋 Menu-Driven Function Program
-⭐ Pattern Generator Using Functions
-
-----
-
-
-✅ Day 06 — Object-Oriented Programming Basics
-
-📌 Status: 🟢 Completed
-
-📖 Topics Covered
-
-🧱 Classes
-🎯 Objects
-📦 Attributes
-🧩 Methods
-👤 self
-🏗️ __init__() constructor
-🔄 Objects and their data
-🧠 Basic OOP problem solving
-💻 Practice
-🎓 Student Class
-🚗 Car Class
-📚 Book Class
-📱 Mobile Class
-👨‍💼 Employee Class
-📐 Rectangle Class
-⭕ Circle Class
-🛍️ Product Class
-🧮 Calculator Class
-🎓 Student Grade System
-🏦 Bank Account
-🚗 Car Speed System
-🔢 Number Analyzer
-📊 Student Result System
-🛒 Shopping Cart
-🔥 Challenges
-📚 Library Management System
-🏦 Bank System
-
-------
-
-
-📌 Status: 🟢 Completed
-
-📖 Topics Covered
-
-- ⚙️ What functions are
+- ⚙️ Functions
 - 🏗️ Creating and calling functions
 - 📥 Parameters and arguments
-- ↩️ "return" statement
+- ↩️ "return"
 - 🔄 Reusable functions
 - 🧩 Functions with conditions and loops
 - 🧠 Breaking programs into smaller parts
@@ -260,7 +204,7 @@ My focus is on building practical skills in:
 
 - 👋 Basic Function Practice
 - 👤 Function with Parameters
-- ➕ Function for Addition
+- ➕ Addition Function
 - 🔢 Even/Odd Function
 - 🔢 Largest Number Function
 - ↩️ Functions Using "return"
@@ -280,7 +224,7 @@ My focus is on building practical skills in:
 
 ---
 
-✅ Day 06 — Object-Oriented Programming Basics
+✅ 06 — Object-Oriented Programming Basics
 
 📌 Status: 🟢 Completed
 
@@ -320,104 +264,232 @@ My focus is on building practical skills in:
 - 👨‍💼 Employee Management System
 - 🎓 Student Management System
 
+---
 
+✅ 07 — File Handling
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 📁 Opening files
+- 📖 Reading files
+- ✍️ Writing files
+- ➕ Appending data
+- 🧹 Closing files
+- 🛡️ Using "with open()"
+
+
+✅ 08 — Error Handling
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- ⚠️ Errors and exceptions
+- 🛡️ "try"
+- 🚨 "except"
+- 🧹 "finally"
+- 🔍 Handling common exceptions
+- 🧠 Writing safer programs
+
+---
+
+✅ Day 09 — Debugging & Problem Solving
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🐞 Finding bugs
+- 🔍 Reading error messages
+- 🧩 Debugging programs
+- 🧠 Problem-solving techniques
+- 🛠️ Fixing logical and syntax errors
+- 🧪 Testing program behavior
+
+---
+
+
+✅ 10 — Modules & Packages
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 📦 Modules
+- 📥 "import"
+- 🔗 Importing functions
+- 🧰 Standard library modules
+- 📁 Packages
+- 🗂️ Organizing Python code
+
+---
+
+✅ 11 — Testing Basics
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🧪 Why testing matters
+- 🔍 Test cases
+- ✅ Expected vs actual results
+- 🧰 Basic Python testing
+- 🐞 Finding bugs through tests
+
+---
+
+✅ 12 — Clean Code
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- ✨ Readable code
+- 🏷️ Meaningful names
+- 🧩 Small functions
+- 📝 Comments and documentation
+- 🔄 Code organization
+- 🧹 Improving code quality
+
+---
+
+✅ 13 — Git Fundamentals
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🔧 Git basics
+- 📁 Repository initialization
+- ➕ "git add"
+- 💾 "git commit"
+- 🔍 "git status"
+- 📜 "git log"
+- 🔄 Working with changes
+- 🌿 Branch basics
+
+---
+
+✅ 14 — GitHub Workflow
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🌐 GitHub repositories
+- 🔗 Remote repositories
+- 📤 "git push"
+- 📥 "git pull"
+- 🔄 GitHub workflow
+- 🌿 Branches
+- 🤝 Basic collaboration workflow
+
+---
+
+✅ 15 — Reading Real-World Code
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 📖 Reading unfamiliar code
+- 🔍 Understanding project structure
+- 🧩 Following functions
+- 🗂️ Understanding files and folders
+- 🧠 Understanding how real projects are organized
+
+---
+
+✅ 16 — Understanding Issues
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🐛 Understanding GitHub issues
+- 🔍 Reading issue descriptions
+- 🎯 Identifying the actual problem
+- 🧩 Understanding expected behavior
+- 🛠️ Thinking about possible solutions
+- 💬 Writing clear technical communication
+
+---
+
+✅ 17 — Exploring Open-Source Repositories
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 🔍 Exploring GitHub repositories
+- 📁 Understanding repository structure
+- 📖 Reading README files
+- 🧩 Finding beginner-friendly tasks
+- 🐍 Exploring Python projects
+- 🌍 Understanding open-source contribution opportunities
+
+---
+
+✅ 18 — Documentation & README
+
+📌 Status: 🟢 Completed
+
+📖 Topics Covered
+
+- 📝 Writing README files
+- 📚 Writing clear documentation
+- 🧭 Explaining project structure
+- 💻 Documenting setup instructions
+- ✨ Improving readability
+- 📖 Writing for new contributors
+
+---
+
+✅ 19 — Open-Source Preparation
+
+📌 Status: 🟢 On going
+
+📖 Topics Covered
+
+- 🌍 Open-source contribution workflow
+- 🔍 Repository exploration
+- 🐛 Issue understanding
+- 🤝 Contribution preparation
+- 🧪 Testing and debugging
+- 📝 Documentation
+- 📖 Reading real-world code
+- 🚀 Preparing for first meaningful contribution
+
+---
 
 🗺️ 25-Day Learning Roadmap
 
 Day| 📚 Topic| 📊 Status
 01| 🐍 Python Fundamentals| ✅ Completed
 02| 🔀 Conditions & Decision Making| ✅ Completed
-03🗂️ Lists, Tuples, Sets & Dictionaries
-✅ Completed
-04
-🔁 Python Loops
-✅ Completed
-05
-⚙️ Functions
-✅ Completed 
-06
-🧱 Object-Oriented Programming
-✅ Completed 
-07
-🛡️ Error Handling
-✅ Completed
-08
-🐞 Debugging & Problem Solving
-✅ Completed
-09
-📁 File Handling
-✅ Completed
-10
-📦 Modules & Packages
-✅ Completed
-11
-🧪 Testing Basics
-⏳ Upcoming
-12
-✨ Clean Code
-⏳ Upcoming
-13
-🔧 Git Fundamentals
-✅ Completed
-14
-🌐 GitHub Workflow
-✅ Completed
-15
-🐧 Linux Command Line
-⏳ Upcoming
-16
-📖 Reading Real-World Code
-✅ Completed
-17
-🐛 Understanding Issues
-⏳ Upcoming
-18
-🔍 Exploring Open-Source Repositories
- Completed
-19
-📝 Documentation & README
-⏳ Upcoming
-20
-🤝 Pull Requests
-⏳ Upcoming
-21
-🌍 First Open-Source Contribution
-⏳ Upcoming
-22
-🌐 Django Fundamentals
-⏳ Upcoming
-23
-🧪 Django Practice Project
-⏳ Upcoming
-24
-🧠 Python Revision & Challenges
-⏳ Upcoming
-25
-🚀 Final Project & Outreachy Preparation
-⏳ Upcoming
-📌 Note: This roadmap is flexible. Topics may be adjusted based on learning progress and Outreachy project requirements.
-=======
 03| 🗂️ Lists, Tuples, Sets & Dictionaries| ✅ Completed
 04| 🔁 Python Loops| ✅ Completed
 05| ⚙️ Functions| ✅ Completed
 06| 🧱 Object-Oriented Programming| ✅ Completed
-07| 🛡️ Error Handling| ⏳ Upcoming
-08| 🐞 Debugging & Problem Solving| ⏳ Upcoming
-09| 📁 File Handling| ⏳ Upcoming
-10| 📦 Modules & Packages| ⏳ Upcoming
-11| 🧪 Testing Basics| ⏳ Upcoming
-12| ✨ Clean Code| ⏳ Upcoming
-13| 🔧 Git Fundamentals| ⏳ Upcoming
-14| 🌐 GitHub Workflow| ⏳ Upcoming
-15| 🐧 Linux Command Line| ⏳ Upcoming
-16| 📖 Reading Real-World Code| ⏳ Upcoming
-17| 🐛 Understanding Issues| ⏳ Upcoming
-18| 🔍 Exploring Open-Source Repositories| ⏳ Upcoming
-19| 📝 Documentation & README| ⏳ Upcoming
+07| 🛡️ Error Handling| ✅ Completed
+08| 🐞 Debugging & Problem Solving| ✅ Completed
+09| 📁 File Handling| ✅ Completed
+10| 📦 Modules & Packages| ✅ Completed
+11| 🧪 Testing Basics| ✅ Completed
+12| ✨ Clean Code| ✅ Completed
+13| 🔧 Git Fundamentals| ✅ Completed
+14| 🌐 GitHub Workflow| ✅ Completed
+15| 📖 Reading Real-World Code| ✅ Completed
+16| 🐛 Understanding Issues| ✅ Completed
+17| 🔍 Exploring Open-Source Repositories| ✅ Completed
+18| 📝 Documentation & README| ✅ Completed
+19| 🌍 Open-Source Preparation| ✅ Completed
 20| 🤝 Pull Requests| ⏳ Upcoming
 21| 🌍 First Open-Source Contribution| ⏳ Upcoming
-22| 🌐 Django Fundamentals| ⏳ Upcoming
-23| 🧪 Django Practice Project| ⏳ Upcoming
+22| 🐧 Linux Command Line| ⏳ Upcoming
+23| 🧪 Open-Source Practice Project| ⏳ Upcoming
 24| 🧠 Python Revision & Challenges| ⏳ Upcoming
 25| 🚀 Final Project & Outreachy Preparation| ⏳ Upcoming
 
@@ -425,45 +497,17 @@ Day| 📚 Topic| 📊 Status
 
 ---
 
->>>>>>> 7b63f0c (Update README for Day 5 and Day 6 progress)
-📂 Repository Structure
-
-outreachy-journey-2026/
-│
-├── 📄 README.md
-│
-└── 📁 PYTHON/
-    │
-    ├── 📁 Day 01/
-    │   └── 🐍 Python practice programs
-    │
-    ├── 📁 Day 02/
-    │   └── 🔀 Conditions practice programs
-    │
-    ├── 📁 Day 03/
-    │   └── 🗂️ Data structures practice programs
-    │
-    ├── 📁 Day 04/
-    │   └── 🔁 Loop practice programs
-    │
-    ├── 📁 Day 05/
-    │   └── ⚙️ Functions practice programs
-    │
-    └── 📁 Day 06/
-        └── 🧱 OOP practice programs
-
----
-
 🎯 Long-Term Goals
 
 - 🐍 Build strong Python fundamentals
 - 🧠 Improve problem-solving skills
-- 🔧 Learn Git and GitHub workflows
-- 🐧 Understand Linux command line
+- 🔧 Become comfortable with Git and GitHub
+- 🐧 Learn the Linux command line
 - 📖 Read and understand real-world code
+- 🧪 Write and understand tests
 - 🤝 Make meaningful open-source contributions
-- 🌐 Learn Django and web development
-- 🚀 Prepare for Outreachy 2026
+- 📝 Improve technical communication
+- 🚀 Prepare effectively for Outreachy 2026
 - 🌱 Become a confident beginner developer
 
 ---
