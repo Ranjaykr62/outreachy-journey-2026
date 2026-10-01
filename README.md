@@ -473,9 +473,9 @@ Day| 📚 Topic| 📊 Status
 04| 🔁 Python Loops| ✅ Completed
 05| ⚙️ Functions| ✅ Completed
 06| 🧱 Object-Oriented Programming| ✅ Completed
-07| 🛡️ Error Handling| ✅ Completed
-08| 🐞 Debugging & Problem Solving| ✅ Completed
-09| 📁 File Handling| ✅ Completed
+07| 📁 File Handling| ✅ Completed
+08| 🛡️ Error Handling| ✅ Completed
+09| 🐞 Debugging & Problem Solving| ✅ Completed
 10| 📦 Modules & Packages| ✅ Completed
 11| 🧪 Testing Basics| ✅ Completed
 12| ✨ Clean Code| ✅ Completed
